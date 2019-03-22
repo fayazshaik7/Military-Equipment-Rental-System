@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MilitaryEquipment</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_cus_reg">CusRegActivity</string>
+    <string name="title_activity_admin_home">AdminHome</string>
+    <string name="title_activity_customer_home">CustomerHome</string>
+    <string name="title_activity_global_class">GlobalClass</string>
+    <string name="title_activity_ddr">DdrActivity</string>
+    <string name="title_activity_pcp">PcpActivity</string>
+    <string name="title_activity_car">CarActivity</string>
+    <string name="title_activity_mj">MJActivity</string>
+    <string name="title_activity_lwt">LWTActivity</string>
+    <string name="title_activity_cougar">CougarActivity</string>
+    <string name="title_activity_lav25">LAV25Activity</string>
+    <string name="title_activity_m109">M109Activity</string>
+    <string name="title_activity_mjbooking">MJBooking</string>
+    <string name="title_activity_lav25_booking">LAV25Booking</string>
+    <string name="title_activity_lwtbooking">LWTBooking</string>
+    <string name="title_activity_cougar_booking">CougarBooking</string>
+    <string name="title_activity_m109_booking">M109Booking</string>
+    <string name="title_activity_cougarbooking">Cougarbooking</string>
+
+</resources>
